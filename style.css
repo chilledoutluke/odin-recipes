@@ -1,6 +1,6 @@
 body {
     font-family: "Lucida Console", "Courier New", monospace;
-    background-image: linear-gradient(to bottom right, rgba(0, 102, 255, 0.959), rgba(174, 0, 255, 0.795));
+    background-color: #40826D;
 }
 
 h1 {
@@ -8,11 +8,10 @@ h1 {
     text-align: center;
 }
 
-.image-cards {
-        border-radius: 50px;
-        width: 200px;
-        height: 150px;
-        object-fit: cover;
-        
+.image-box {
 
+}
+
+.images {
+    
 }
