@@ -1,17 +1,9 @@
 body {
-    font-family: "Lucida Console", "Courier New", monospace;
-    background-color: #40826D;
+    background-color: ;
+
 }
 
 h1 {
-    font-style: italic;
-    text-align: center;
-}
-
-.image-box {
-
-}
-
-.images {
-    
+    font-size: large;
+    font-weight: 300;
 }
