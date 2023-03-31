@@ -1,9 +1,21 @@
 body {
-    background-color: ;
-
+    background-image: linear-gradient(to right, rgb(0, 140, 255) , purple);
+    color: rgb(207, 228, 228);
+    font-family:'Courier New', Courier, monospace;
 }
 
 h1 {
-    font-size: large;
-    font-weight: 300;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+/* .image-box {
+
+} */
+
+.images {
+    height: 350px;
+    border-radius: 5px;
+    align-items: center;
 }
